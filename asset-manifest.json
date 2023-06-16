@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.25164640.css",
-    "main.js": "/static/js/main.86e84b56.js",
+    "main.css": "/static/css/main.3b4e5f1b.css",
+    "main.js": "/static/js/main.c92a73e5.js",
     "static/media/zirc_thumbnail.png": "/static/media/zirc_thumbnail.454c2b5ee130ead2ab07.png",
     "static/media/a-travel-website-for_hayleytravel_thumb.min.png": "/static/media/a-travel-website-for_hayleytravel_thumb.min.b9fe510532692244da7f.png",
     "static/media/ToDoListApp.min.png": "/static/media/ToDoListApp.min.22adc23e362164367e15.png",
@@ -65,11 +65,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.25164640.css.map": "/static/css/main.25164640.css.map",
-    "main.86e84b56.js.map": "/static/js/main.86e84b56.js.map"
+    "main.3b4e5f1b.css.map": "/static/css/main.3b4e5f1b.css.map",
+    "main.c92a73e5.js.map": "/static/js/main.c92a73e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.25164640.css",
-    "static/js/main.86e84b56.js"
+    "static/css/main.3b4e5f1b.css",
+    "static/js/main.c92a73e5.js"
   ]
 }
