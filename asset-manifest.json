@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.12709e57.css",
-    "main.js": "/static/js/main.39de7a38.js",
+    "main.css": "/static/css/main.2097a71a.css",
+    "main.js": "/static/js/main.d80e690c.js",
     "static/media/cover.jpg": "/static/media/cover.8fca8e80ddb5dee51f92.jpg",
     "static/media/aniflix.min.png": "/static/media/aniflix.min.38d3acbff25a8f83350d.png",
     "static/media/zirc_thumbnail.png": "/static/media/zirc_thumbnail.454c2b5ee130ead2ab07.png",
@@ -68,11 +68,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.12709e57.css.map": "/static/css/main.12709e57.css.map",
-    "main.39de7a38.js.map": "/static/js/main.39de7a38.js.map"
+    "main.2097a71a.css.map": "/static/css/main.2097a71a.css.map",
+    "main.d80e690c.js.map": "/static/js/main.d80e690c.js.map"
   },
   "entrypoints": [
-    "static/css/main.12709e57.css",
-    "static/js/main.39de7a38.js"
+    "static/css/main.2097a71a.css",
+    "static/js/main.d80e690c.js"
   ]
 }
