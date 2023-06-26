@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1f1c547.css",
-    "main.js": "/static/js/main.9265d149.js",
+    "main.css": "/static/css/main.12709e57.css",
+    "main.js": "/static/js/main.39de7a38.js",
     "static/media/cover.jpg": "/static/media/cover.8fca8e80ddb5dee51f92.jpg",
+    "static/media/aniflix.min.png": "/static/media/aniflix.min.38d3acbff25a8f83350d.png",
     "static/media/zirc_thumbnail.png": "/static/media/zirc_thumbnail.454c2b5ee130ead2ab07.png",
-    "static/media/a-travel-website-for_hayleytravel_thumb.min.png": "/static/media/a-travel-website-for_hayleytravel_thumb.min.b9fe510532692244da7f.png",
-    "static/media/ToDoListApp.min.png": "/static/media/ToDoListApp.min.22adc23e362164367e15.png",
+    "static/media/OralWellnessDentalClinic_ss.min.png": "/static/media/OralWellnessDentalClinic_ss.min.b4eda425560735f8b807.png",
+    "static/media/a-travel-website-for_hayleytravel.min.png": "/static/media/a-travel-website-for_hayleytravel.min.94f18449a4dc8716120d.png",
     "static/media/zirc.png": "/static/media/zirc.bee51ee85a834b201930.png",
     "static/media/p2-js-game-zircdev_thumb.min.png": "/static/media/p2-js-game-zircdev_thumb.min.4c97db7873662e61d030.png",
     "static/media/zirc_logo.png": "/static/media/zirc_logo.90ad8a027d8fc3171cca.png",
@@ -67,11 +68,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.c1f1c547.css.map": "/static/css/main.c1f1c547.css.map",
-    "main.9265d149.js.map": "/static/js/main.9265d149.js.map"
+    "main.12709e57.css.map": "/static/css/main.12709e57.css.map",
+    "main.39de7a38.js.map": "/static/js/main.39de7a38.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f1c547.css",
-    "static/js/main.9265d149.js"
+    "static/css/main.12709e57.css",
+    "static/js/main.39de7a38.js"
   ]
 }
